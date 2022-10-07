@@ -1,0 +1,3 @@
+C:/cProjects/lab07102022/cmake-build-debug/CMakeFiles/lab07102022.dir
+C:/cProjects/lab07102022/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/cProjects/lab07102022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
